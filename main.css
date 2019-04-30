@@ -1,0 +1,18 @@
+{font-family:sans-serif; }
+{background-color:#eee }
+{background-color:#fff }
+{border: solid 1px; }
+{color: green;}
+
+?, ?, ? {
+  padding: 10px;
+  border-radius:
+}
+? {
+  margin: 10px;
+  color: gray;
+  text-decoration: none;
+}
+}
+div > p {color: red;}
+article + article {margin-top: 10px;}
